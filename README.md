@@ -4,6 +4,7 @@ This swagger file focus on each endpoints.
 In this collection, developers can see each endpoint clearly, with all parameters and response data structure.
 
 Including:
+
 - Market
 - Trade/Account
 - Margin
